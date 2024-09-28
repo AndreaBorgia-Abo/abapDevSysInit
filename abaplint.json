@@ -286,12 +286,7 @@
       "try": true,
       "when": true
     },
-    "exit_or_check": {
-      "exclude": [],
-      "severity": "Error",
-      "allowExit": false,
-      "allowCheck": false
-    },
+    "exit_or_check": true,
     "expand_macros": {
       "exclude": [],
       "severity": "Error"
